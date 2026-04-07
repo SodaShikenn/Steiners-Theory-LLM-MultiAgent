@@ -1,9 +1,11 @@
 # LLM マルチエージェント間の相互作用の分析
 **Analysis of Interactions between LLM Multi-Agents**
 
+> Group course project from [Applied Natural Language Processing](https://catalog.he.u-tokyo.ac.jp/detail?code=4810-1193&year=2022) (Yanaka Lab), The University of Tokyo, 2024 A1A2 term
+>
 > 東京大学 2024年度A1A2ターム [自然言語処理応用](https://catalog.he.u-tokyo.ac.jp/detail?code=4810-1193&year=2022)（谷中研究室）のグループ課題プロジェクト
 >
-> [NLP2025](https://www.anlp.jp/nlp2025/)（言語処理学会第31回年次大会）にて発表（2025年3月）
+> Published at [NLP2025](https://www.anlp.jp/nlp2025/) (The 31st Annual Meeting of the Association for Natural Language Processing), March 2025
 
 ---
 
