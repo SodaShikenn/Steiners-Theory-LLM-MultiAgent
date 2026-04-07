@@ -101,8 +101,8 @@ Steiner's theoryのProductivity LossesとProductivity Gainsの中から、LLMで
 ### インストール
 
 ```bash
-git clone https://github.com/SodaShikenn/LLM-Multi-Agent-Interaction-Analysis.git
-cd LLM-Multi-Agent-Interaction-Analysis
+git clone https://github.com/SodaShikenn/Steiners-Theory-LLM-MultiAgent.git
+cd Steiners-Theory-LLM-MultiAgent
 pip install -r requirements.txt
 ```
 
